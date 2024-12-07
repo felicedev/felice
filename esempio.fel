@@ -1,0 +1,15 @@
+C'è una variabile soglia di interi, vale 10.
+C'è una variabile x di interi, vale 20.
+C'è una variabile grande di booleano, vale falso.
+
+Se x è maggiore di soglia allora:
+   grande è vero.
+   scrivi "x è maggiore della soglia" sulla console.
+Altrimenti:
+   grande è falso.
+   scrivi "x non è maggiore della soglia" sulla console.
+
+C'è una variabile y di interi, vale 5.
+Se y è uguale a soglia allora:
+   scrivi "y è uguale a soglia" sulla console.
+scrivi "fine programma" sulla console.
